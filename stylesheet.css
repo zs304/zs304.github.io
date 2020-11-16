@@ -4,7 +4,7 @@ background-color:#edf6f9;
       
   h1{
             text-align:center;
-            font-family:monospace;
+            font-family:"helvecta", sans-serif;
              color:#006d77;
              outline-style:solid;
              font-weight:bold;
@@ -52,13 +52,13 @@ li.nav a:hover {
             font-size:20px;
         }
 	h3{
-		font-family:monospace;
+		font-family::"helvecta", sans-serif;
 	}
             h4{
                   font-family:lucida console;  
             }
 p{
-font-family:monospace;
+font-family::"helvecta", sans-serif;
 }
 p.links{
 background-color:lightblue;
@@ -68,7 +68,7 @@ font-size:20pt;
 
 }
             #intro{
-                 font-family:monospace;
+                 font-family::"helvecta", sans-serif;
                  background-color:#ffd6d2;
                  padding: 5px;
             }
@@ -84,7 +84,7 @@ font-size:20pt;
         }
 
             info{
-                font-family:monospace;
+                font-family::"helvecta", sans-serif;
                 text-align:center;
             }
               .post{
