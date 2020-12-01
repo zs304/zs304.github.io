@@ -13,9 +13,11 @@ background-color:#edf6f9;
          
 
         }
-#body{
-width:90%	
-}
+	#body{
+	width:90%
+	margin-left:auto;
+	margin-right:auto;
+	}
 ul.nav {
     
 display: flex;
