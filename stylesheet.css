@@ -15,12 +15,7 @@ background-color:#edf6f9;
         }
 	#body{
 	width:60%;
-  height: 200px auto;
-  margin: 0 auto;
-  position: relative;
-  top: 20px;
-  padding-left: 20px;
-  padding-top: 15px;
+ float:right;
 	background-color:#fcf2e9;
 		   border-width: 5px;
   border-color: #83c5be;
