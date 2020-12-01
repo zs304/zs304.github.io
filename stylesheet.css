@@ -21,6 +21,12 @@ background-color:#edf6f9;
   border-color: #83c5be;
   border-style: solid;
 	}
+#body2{
+	width:40%
+	float:right;
+	background-color:#fcf2e9;
+
+}
 ul.nav {
     
 display: flex;
