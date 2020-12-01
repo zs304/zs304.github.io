@@ -17,6 +17,9 @@ background-color:#edf6f9;
 	width:50%
 	text-align:center;
 	background-color:#006d77;
+		   border-width: 5px;
+  border-color: #83c5be;
+  border-style: solid;
 	}
 ul.nav {
     
