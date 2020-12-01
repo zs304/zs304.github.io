@@ -50,15 +50,19 @@ li.nav a:hover {
         h2{
             font-family::"Times New Roman", Times, serif;
             font-size:20px;
+		 color:#006d77;
         }
 	h3{
 		font-family::"Times New Roman", Times, serif;
+		 color:#006d77;
 	}
             h4{
                   font-family::"Times New Roman", Times, serif;  
+		     color:#006d77;
             }
 p{
 font-family::"Times New Roman", Times, serif;
+	 color:#006d77;
 }
 p.links{
 background-color:lightblue;
@@ -86,6 +90,7 @@ font-size:20pt;
             info{
                 font-family::"Times New Roman", Times, serif;
                 text-align:center;
+		     color:#006d77;
             }
               .post{
 background-color:#fcf2e9;
