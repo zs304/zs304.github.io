@@ -14,8 +14,9 @@ background-color:#edf6f9;
 
         }
 	#body{
-	width:50%
-	margin: auto;
+	width:60%
+	margin: 0 auto;
+  position: relative;
 	background-color:#fcf2e9;
 		   border-width: 5px;
   border-color: #83c5be;
