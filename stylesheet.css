@@ -48,17 +48,17 @@ li.nav a:hover {
 
 
         h2{
-            font-family::"helvecta", sans-serif;
+            font-family::"Times New Roman", Times, serif;
             font-size:20px;
         }
 	h3{
-		font-family::"helvecta", sans-serif;
+		font-family::"Times New Roman", Times, serif;
 	}
             h4{
-                  font-family::"helvecta", sans-serif;  
+                  font-family::"Times New Roman", Times, serif;  
             }
 p{
-font-family::"helvecta", sans-serif;
+font-family::"Times New Roman", Times, serif;
 }
 p.links{
 background-color:lightblue;
@@ -68,7 +68,7 @@ font-size:20pt;
 
 }
             #intro{
-                 font-family::"helvecta", sans-serif;
+                 font-family:"Times New Roman", Times, serif;
                  background-color:#ffd6d2;
                  padding: 5px;
             }
@@ -84,7 +84,7 @@ font-size:20pt;
         }
 
             info{
-                font-family::"helvecta", sans-serif;
+                font-family::"Times New Roman", Times, serif;
                 text-align:center;
             }
               .post{
