@@ -25,7 +25,9 @@ background-color:#edf6f9;
 	width:40%
 	float:right;
 	background-color:#fcf2e9;
-
+	   border-width: 5px;
+  border-color: #006d77;
+  border-style: solid;
 }
 ul.nav {
     
