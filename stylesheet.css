@@ -17,17 +17,19 @@ background-color:#edf6f9;
 	width:60%;
  float:right;
 	background-color:#fcf2e9;
-		   border-width: 5px;
+		   border-width: 1px;
   border-color: #83c5be;
   border-style: solid;
+overflow:auto;
 	}
 #body2{
 	width:40%
 	float:left;
 	background-color:#fcf2e9;
-	   border-width: 5px;
+	   border-width: 1px;
   border-color: #83c5be;
   border-style: solid;
+
 }
 ul.nav {
     
