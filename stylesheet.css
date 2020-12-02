@@ -13,18 +13,23 @@
         }
 	#body{
 	width:60%;
+	height:100%
  float:right;
 	background-color:#fcf2e9;
 		   border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
-overflow:auto;
+overflow-x: hidden;
+  overflow-y: scroll;
 	}
 #body2{
 	width:40%
-	float:left;
-	background-color:#fcf2e9;
-	   border-width: 2px;
+	height:100%
+overflow-x: hidden;
+  overflow-y: scroll;
+float:left;
+background-color:#fcf2e9;
+border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
 overflow:auto;
