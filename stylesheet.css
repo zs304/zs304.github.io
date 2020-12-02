@@ -13,7 +13,6 @@
         }
 	#body{
 	width:60%;
-	height:100%
  float:right;
 	background-color:#fcf2e9;
 		   border-width: 2px;
@@ -23,7 +22,6 @@ overflow:hidden;
 	}
 #body2{
 	width:40%
-	height:100%
 	float:left;
 	overflow:hidden;
 	background-color:#fcf2e9;
