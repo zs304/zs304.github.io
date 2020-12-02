@@ -13,20 +13,15 @@
         }
 	#body{
 	width:60%;
-	height:100%
  float:right;
 	background-color:#fcf2e9;
 		   border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
-overflow-x: hidden;
-  overflow-y: scroll;
+	
 	}
 #body2{
 	width:40%
-	height:100%
-	overflow-x: hidden;
-  overflow-y: scroll;
 float:left;
 background-color:#fcf2e9;
 border-width: 2px;
