@@ -1,4 +1,4 @@
-
+/* 
       
   h1{
             text-align:center;
@@ -25,14 +25,13 @@ overflow-x: hidden;
 #body2{
 	width:40%
 	height:100%
-overflow-x: hidden;
+	overflow-x: hidden;
   overflow-y: scroll;
 float:left;
 background-color:#fcf2e9;
 border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
-overflow:auto;
 }
 ul.nav {
     
@@ -49,7 +48,7 @@ li.nav {
   margin:auto;
 display: inline-block;
 text-align:center;
-float:left;
+float:left; */
 }
 li a.nav {
     width:10vw;
