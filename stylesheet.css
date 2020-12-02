@@ -28,6 +28,7 @@ overflow:hidden;
 	   border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
+	overflow-y:scroll; 
 
 }
 ul.nav {
