@@ -13,20 +13,22 @@
         }
 	#body{
 	width:65%;
- float:right;
+ float:left;
 	background-color:#fcf2e9;
 		   border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
+		padding:4px
 	
 	}
 #body2{
 	width:35%
-float:left;
-background-color:#fcf2e9;
+float:right;
+background-color:#ffddd2;
 border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
+	padding:3px
 }
 ul.nav {
     
