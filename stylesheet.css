@@ -7,14 +7,13 @@
              color:#006d77;
              font-weight:bold;
              font-size:45px;
-             line-height:1.5;
          
 
         }
 	#body{
 	width:65%;
         float:left;
-	background-color:#427e7e;
+	background-color:#a5c9f2;
         border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
@@ -67,7 +66,6 @@ li.nav a:hover {
 
         h2{
             font-family::"Times New Roman", Times, serif;
-            font-size:20px;
 		 color:#006d77;
         }
 	h3{
