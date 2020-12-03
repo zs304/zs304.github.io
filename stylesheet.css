@@ -77,7 +77,7 @@ li.nav a:hover {
 	}
             h4{
                   font-family::"Times New Roman", Times, serif;  
-		
+		color: rgb(41, 41, 41);
             }
 p{
 font-family::"Times New Roman", Times, serif;
@@ -101,7 +101,7 @@ font-size:20pt;
             margin-top:6pt;
             margin-bottom:26pt;
             padding:1px;
-            color:rgb(0, 9, 69);
+            color:#d6d6d6;
             font-family:monospace;
             background-color:#ffd6d2;
 
