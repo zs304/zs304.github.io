@@ -2,9 +2,9 @@
       
   h1{
             text-align:center;
+	    background-image: url("background.jpg")
             font-family:"helvecta", sans-serif;
              color:#006d77;
-             outline-style:solid;
              font-weight:bold;
              font-size:45px;
              line-height:1.5;
@@ -13,9 +13,9 @@
         }
 	#body{
 	width:65%;
- float:left;
+        float:left;
 	background-color:#fcf2e9;
-		   border-width: 2px;
+        border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
 		padding:4px
@@ -24,7 +24,7 @@
 #body2{
 	width:35%
 float:right;
-background-color:#ffc8dd;
+background-color:#006d77;
 border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
@@ -90,7 +90,7 @@ font-size:20pt;
 }
             #intro{
                  font-family:"Times New Roman", Times, serif;
-                 background-color:#ffd6d2;
+                 background-color:#d6d6d6;
                  padding: 5px;
             }
         
