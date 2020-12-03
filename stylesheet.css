@@ -20,6 +20,7 @@
   border-color: #83c5be;
   border-style: solid;
 		padding:5px
+			overflow:scroll;
 	
 	}
 #body2{
@@ -30,6 +31,7 @@ border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
 	padding:5px
+		overflow:scroll;
 }
 ul.nav {
     
