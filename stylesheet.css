@@ -7,13 +7,14 @@
              color:#006d77;
              font-weight:bold;
              font-size:45px;
+	  line-height:1.5px;
          
 
         }
 	#body{
 	width:65%;
         float:left;
-	background-color:#a5c9f2;
+	background-color:#e5e5e5;
         border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
@@ -23,7 +24,7 @@
 #body2{
 	width:35%
 float:right;
-background-color:#e5e5e5;
+background-color:rgb(6, 59, 75);
 border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
@@ -45,7 +46,7 @@ li.nav {
   margin:auto;
 display: inline-block;
 text-align:center;
-float:left; */
+float:left; 
 }
 li a.nav {
     width:10vw;
