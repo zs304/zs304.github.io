@@ -23,7 +23,7 @@
 #body2{
 	width:35%
 float:right;
-background-color:#006d77;
+background-color:#e5e5e5;
 border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
@@ -70,6 +70,7 @@ li.nav a:hover {
         }
 	h3{
 		font-family::"Times New Roman", Times, serif;
+		color: rgb(41, 41, 41);
 		
 	}
             h4{
@@ -78,6 +79,7 @@ li.nav a:hover {
             }
 p{
 font-family::"Times New Roman", Times, serif;
+	color: rgb(41, 41, 41);
 
 }
 p.links{
