@@ -7,7 +7,6 @@
              color:#006d77;
              font-weight:bold;
              font-size:45px;
-	  line-height:1.5px;
          
 
         }
@@ -24,7 +23,8 @@
 #body2{
 	width:35%
 float:right;
-background-color:rgb(6, 59, 75);
+background-color:rgb(0, 109, 119);
+	margin:auto;
 border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
