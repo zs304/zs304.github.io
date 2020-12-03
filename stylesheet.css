@@ -2,7 +2,7 @@
       
   h1{
             text-align:center;
-	    background-image: url("background.jpg")
+	    background-image:url("background.jpg");
             font-family:"helvecta", sans-serif;
              color:#006d77;
              font-weight:bold;
@@ -14,7 +14,7 @@
 	#body{
 	width:65%;
         float:left;
-	background-color:#fcf2e9;
+	background-color:#427e7e;
         border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
@@ -29,6 +29,7 @@ border-width: 2px;
   border-color: #83c5be;
   border-style: solid;
 	padding:3px
+	text-align:center;
 }
 ul.nav {
     
