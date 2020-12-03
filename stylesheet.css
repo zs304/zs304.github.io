@@ -2,7 +2,6 @@
       
   h1{
             text-align:center;
-	  display: inline-block
 	    background-image:url("marble-2371776_1920.jpg");
             font-family:"helvecta", sans-serif;
              color:#006d77;
@@ -14,7 +13,6 @@
 
         }
 	#body{
-		display: inline-block
 	width:65%;
         float:left;
 	background-color:#e5e5e5;
@@ -25,7 +23,6 @@
 	
 	}
 #body2{
-	display: inline-block
 	width:35%
 float:right;
 background-color:rgb(0, 109, 119);
